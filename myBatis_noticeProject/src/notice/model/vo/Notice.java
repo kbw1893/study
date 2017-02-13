@@ -1,9 +1,10 @@
 package notice.model.vo;
 
+import java.io.Serializable;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class Notice implements java.io.Serializable{
+public class Notice implements Serializable{
 	private int noticeNo;
 	private String noticeTitle;
 	private String noticeWriter;

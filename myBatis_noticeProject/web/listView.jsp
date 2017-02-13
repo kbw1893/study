@@ -58,7 +58,7 @@
 		   	<a href="${u }">${n.noticeTitle }</a>
 		   </td>
 		   <td><%-- ${n.noticeWriter } --%>
-		   		${fn:toUpperCase(n.noticeWriter) }
+		   		
 		   </td>
 		   <td><%-- ${n.noticeDate } --%>
 		   		<fmt:formatDate value="${n.noticeDate }" type="both" pattern="yy/MM/dd hh:mm:ss"/>

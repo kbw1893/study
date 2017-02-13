@@ -12,8 +12,7 @@ public class java {
 		System.out.println("123456789");
 		System.out.println("고병완");
 		System.out.println("12345688888888888");
-=======
 		System.out.println("고병완");
->>>>>>> refs/heads/test
+		System.out.println("TTT");
 	}
 }

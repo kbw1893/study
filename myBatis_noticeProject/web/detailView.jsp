@@ -32,7 +32,7 @@
 	<tr><td>글제목 : </td>
 	  <td><input type="text" name="ntitle" value="${ notice.noticeTitle }" /></td></tr>
 	<tr><td>작성자 : </td>
-	  <td><input type="text" readonly value="${ fn:toUpperCase(notice.noticeWriter) }"/></td></tr>
+	  <td><input type="text" readonly value=""/></td></tr>
 	<tr><td>작성날짜 : </td>
 	  <td><fmt:formatDate type="both" pattern="yy/MM/dd hh:mm:ss" value="${notice.noticeDate }"/>
 	  <input type="hidden" name="ndate" value="${ notice.noticeDate }" /></td></tr>
