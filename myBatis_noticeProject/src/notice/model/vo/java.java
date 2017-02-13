@@ -7,5 +7,6 @@ public class java {
 		System.out.println("gkgkgk");
 		System.out.println("aaa");
 		System.out.println("bbb");
+		System.out.println("ccc");
 	}
 }
