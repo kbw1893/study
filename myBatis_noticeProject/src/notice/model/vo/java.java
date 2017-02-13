@@ -14,5 +14,6 @@ public class java {
 		System.out.println("12345688888888888");
 		System.out.println("고병완");
 		System.out.println("TTT");
+		System.out.println("a123");
 	}
 }
