@@ -6,7 +6,7 @@ public class java {
 		System.out.println("몰라");
 		System.out.println("gkgkgk");
 		System.out.println("aaa");
-<<<<<<< HEAD
+		System.out.println("65656565656565656565");
 		System.out.println("bbb");
 		System.out.println("ccc");
 		System.out.println("123456789");
