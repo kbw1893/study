@@ -9,5 +9,6 @@ public class java {
 		System.out.println("bbb");
 		System.out.println("ccc");
 		System.out.println("123456789");
+		System.out.println("고병완");
 	}
 }
